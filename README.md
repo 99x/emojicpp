@@ -1260,7 +1260,7 @@ Supported Emojis
 | ```:small_red_triangle:``` | :small_red_triangle: |
 | ```:arrow_up_small:``` | :arrow_up_small: |
 | ```:arrow_up_down:``` | :arrow_up_down: |
-| ```:upside__down_face:``` | :upside__down_face: |
+| ```:upside__down_face:``` | 🙃 |
 | ```:arrow_up:``` | :arrow_up: |
 | ```:vertical_traffic_light:``` | :vertical_traffic_light: |
 | ```:vibration_mode:``` | :vibration_mode: |
@@ -1281,9 +1281,9 @@ Supported Emojis
 | ```:wc:``` | :wc: |
 | ```:ocean:``` | :ocean: |
 | ```:watermelon:``` | :watermelon: |
-| ```:waving_black_flag:``` | :waving_black_flag: |
+| ```:waving_black_flag:``` | 🏴 |
 | ```:wave:``` | :wave: |
-| ```:waving_white_flag:``` | :waving_white_flag: |
+| ```:waving_white_flag:``` | 🏳️ |
 | ```:wavy_dash:``` | :wavy_dash: |
 | ```:waxing_crescent_moon:``` | :waxing_crescent_moon: |
 | ```:moon:``` | :moon: |
@@ -1291,14 +1291,14 @@ Supported Emojis
 | ```:scream_cat:``` | :scream_cat: |
 | ```:weary:``` | :weary: |
 | ```:wedding:``` | :wedding: |
-| ```:weight_lifter:``` | :weight_lifter: |
+| ```:weight_lifter:``` | 🏋️ |
 | ```:whale2:``` | :whale2: |
 | ```:wheel_of_dharma:``` | :wheel_of_dharma: |
 | ```:wheelchair:``` | :wheelchair: |
 | ```:point_down:``` | :point_down: |
 | ```:grey_exclamation:``` | :grey_exclamation: |
 | ```:white_flower:``` | :white_flower: |
-| ```:white_frowning_face:``` | :white_frowning_face: |
+| ```:white_frowning_face:``` | ☹️ |
 | ```:white_check_mark:``` | :white_check_mark: |
 | ```:white_large_square:``` | :white_large_square: |
 | ```:point_left:``` | :point_left: |
@@ -1310,12 +1310,12 @@ Supported Emojis
 | ```:white_small_square:``` | :white_small_square: |
 | ```:relaxed:``` | :relaxed: |
 | ```:white_square_button:``` | :white_square_button: |
-| ```:white_sun_behind_cloud:``` | :white_sun_behind_cloud: |
-| ```:white_sun_behind_cloud_with_rain:``` | :white_sun_behind_cloud_with_rain: |
-| ```:white_sun_with_small_cloud:``` | :white_sun_with_small_cloud: |
+| ```:white_sun_behind_cloud:``` | 🌥️ |
+| ```:white_sun_behind_cloud_with_rain:``` | 🌦️ |
+| ```:white_sun_with_small_cloud:``` | 🌤 |
 | ```:point_up_2:``` | :point_up_2: |
 | ```:point_up:``` | :point_up: |
-| ```:wind_blowing_face:``` | :wind_blowing_face: |
+| ```:wind_blowing_face:``` | 🌬 |
 | ```:wind_chime:``` | :wind_chime: |
 | ```:wine_glass:``` | :wine_glass: |
 | ```:wink:``` | :wink: |
@@ -1334,5 +1334,5 @@ Supported Emojis
 | ```:writing_hand:``` | :writing_hand: |
 | ```:yellow_heart:``` | :yellow_heart: |
 | ```:yin_yang:``` | :yin_yang: |
-| ```:zipper__mouth_face:``` | :zipper__mouth_face: |
+| ```:zipper__mouth_face:``` | 🤐 |
 

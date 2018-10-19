@@ -25,3 +25,5 @@ int main() {
     return 0;
 }
 ```
+
+See supported emoji [list](https://github.com/shalithasuranga/emojicpp/blob/master/emoji.h)

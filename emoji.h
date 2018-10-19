@@ -1,5 +1,4 @@
 #include <map>
-#include <regex>
 
 std::map<std::string, std::string> EMOJIS = {
     {":admission_tickets:" , "\U0001F39F"},
@@ -1308,29 +1307,41 @@ std::map<std::string, std::string> EMOJIS = {
     {":zipper__mouth_face:" , "\U0001F910"}
 };
 
-std::string get_emo(std::string s) {
-    return EMOJIS[s];
-}
-
-void replaceAll(std::string& str, const std::string& from, const std::string& to) {
-    if(from.empty())
-        return;
-    size_t start_pos = 0;
-    while((start_pos = str.find(from, start_pos)) != std::string::npos) {
-        str.replace(start_pos, from.length(), to);
-        start_pos += to.length(); // In case 'to' contains 'from', like replacing 'x' with 'yx'
-    }
-}
-
 namespace emojicpp {
-    std::string emojize (std::string s) {
-        std::regex emo_re ("(:[+\\-\\w]+:)");
-        std::smatch m;
-        std::string S = s;
-         while (std::regex_search (s, m, emo_re)) {
-            replaceAll(S, m[0].str(), get_emo(m[0].str()));
-            s = m.suffix().str();
+    std::string emojize(std::string s) {
+        int index = -1;
+        int sLen = s.size();
+        for (int i = 0; i < sLen; i++) {
+            if (s[i] == *L":") {
+                if (index == -1) {
+                    index = i;
+                }
+                else {
+                    if (i-index==1) {
+                        index = i;
+                        
+                        continue;
+                    }
+                    std::map<std::string, std::string>::iterator it;
+                    it = EMOJIS.find(s.substr(index, i - index + 1));
+                    if (it == EMOJIS.end()) {
+                        index = i;
+                        continue;
+                    }
+                    std::string emo = it->second;
+                    // replace from index to i
+                    //std::cout << s.substr(index, i - index + 1) << std::endl; // <---- uncomment to see what text is replaced, might be good for debugging
+                    s.replace(index, i - index + 1 , emo);
+                    int goBack = i - index + 1 - emo.size();
+                    sLen -= goBack;
+                    i -= goBack;
+                    index = -1;
+                }
+            }
+            if (((unsigned char)s[i]) < 48) {
+                index = -1;
+            }
         }
-        return S;
+        return s;
     }
 }

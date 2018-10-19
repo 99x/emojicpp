@@ -1,7 +1,7 @@
 #include <iostream>
 #include "emoji.h"
-
+using namespace std;
 int main() {
-    std::cout << emojicpp::emojize("Emoji :smile: for c++ :+1:") << std::endl;
+    cout << emojicpp::emojize("Emoji :smile: for c++ :+1:") << endl;
     return 0;
 }

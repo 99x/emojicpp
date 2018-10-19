@@ -31,8 +31,8 @@ Supported Emojis
 
 | Code          | Emoji     |
 | ------------- | --------- |
-| ```:admission_tickets:``` | :admission_tickets: |
-| ```:aerial_tramway:``` | :aerial_tramway: |
+| ```:admission_tickets:``` | &#x1f39f; |
+| ```:aerial_tramway:``` | &#x1f6a1; |
 | ```:airplane:``` | :airplane: |
 | ```:airplane_arriving:``` | :airplane_arriving: |
 | ```:airplane_departure:``` | :airplane_departure: |

@@ -31,7 +31,7 @@ Supported Emojis
 
 | Code          | Emoji     |
 | ------------- | --------- |
-| ```:admission_tickets:``` | <p>🎟️</p> |
+| ```:admission_tickets:``` | 🎟️ |
 | ```:aerial_tramway:``` | :aerial_tramway: |
 | ```:airplane:``` | :airplane: |
 | ```:airplane_arriving:``` | :airplane_arriving: |

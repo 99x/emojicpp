@@ -10,9 +10,9 @@ emojicpp::emojize("Emoji :smile: for c++ :+1:")
 
 **Output**
 
-```
-Emoji 😄 for c++ 👍
-```
+
+> Emoji 😄 for c++ 👍
+
 
 **Sample program**
 

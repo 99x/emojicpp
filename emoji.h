@@ -1338,9 +1338,6 @@ namespace emojicpp {
                     index = -1;
                 }
             }
-            if (((unsigned char)s[i]) < 48) {
-                index = -1;
-            }
         }
         return s;
     }

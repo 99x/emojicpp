@@ -119,7 +119,7 @@ Supported Emojis
 | ```:fast_forward:``` | :fast_forward: |
 | ```:black_right__pointing_double_triangle_with_vertical_bar:``` | :black_right__pointing_double_triangle_with_vertical_bar: |
 | ```:arrow_forward:``` | :arrow_forward: |
-| ```:black_right__pointing_triangle_with_vertical_bar:``` | :black_right__pointing_triangle_with_double_vertical_bar: |
+| ```:black_right__pointing_triangle_with_double_vertical_bar:``` | :black_right__pointing_triangle_with_double_vertical_bar: |
 | ```:arrow_right:``` | :arrow_right: |
 | ```:scissors:``` | :scissors: |
 | ```:black_small_square:``` | :black_small_square: |

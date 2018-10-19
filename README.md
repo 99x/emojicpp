@@ -31,8 +31,8 @@ Supported Emojis
 
 | Code          | Emoji     |
 | ------------- | --------- |
-| ```:admission_tickets:``` | &#x1f39f; |
-| ```:aerial_tramway:``` | &#x1f6a1; |
+| ```:admission_tickets:``` | :admission_tickets: |
+| ```:aerial_tramway:``` | :aerial_tramway: |
 | ```:airplane:``` | :airplane: |
 | ```:airplane_arriving:``` | :airplane_arriving: |
 | ```:airplane_departure:``` | :airplane_departure: |
@@ -119,7 +119,7 @@ Supported Emojis
 | ```:fast_forward:``` | :fast_forward: |
 | ```:black_right__pointing_double_triangle_with_vertical_bar:``` | :black_right__pointing_double_triangle_with_vertical_bar: |
 | ```:arrow_forward:``` | :arrow_forward: |
-| ```:black_right__pointing_triangle_with_double_vertical_bar:``` | :black_right__pointing_triangle_with_double_vertical_bar: |
+| ```:black_right__pointing_triangle_with_tical_bar:``` | :black_right__pointing_triangle_with_double_vertical_bar: |
 | ```:arrow_right:``` | :arrow_right: |
 | ```:scissors:``` | :scissors: |
 | ```:black_small_square:``` | :black_small_square: |
@@ -307,9 +307,9 @@ Supported Emojis
 | ```:door:``` | :door: |
 | ```:loop:``` | :loop: |
 | ```:bangbang:``` | :bangbang: |
-| ```:double_vertical_bar:``` | :double_vertical_bar: |
+| ```:double_vertical_bar:``` | &#9208; |
 | ```:doughnut:``` | :doughnut: |
-| ```:dove_of_peace:``` | :dove_of_peace: |
+| ```:dove_of_peace:``` | &#x1f54a; |
 | ```:small_red_triangle_down:``` | :small_red_triangle_down: |
 | ```:arrow_down_small:``` | :arrow_down_small: |
 | ```:arrow_down:``` | :arrow_down: |
@@ -319,7 +319,7 @@ Supported Emojis
 | ```:dromedary_camel:``` | :dromedary_camel: |
 | ```:droplet:``` | :droplet: |
 | ```:dvd:``` | :dvd: |
-| ```:e__mail:``` | :e__mail: |
+| ```:e__mail:``` | &#x1f4e7; |
 | ```:ear:``` | :ear: |
 | ```:corn:``` | :corn: |
 | ```:ear_of_rice:``` | :ear_of_rice: |
@@ -328,16 +328,16 @@ Supported Emojis
 | ```:earth_africa:``` | :earth_africa: |
 | ```:eight_pointed_black_star:``` | :eight_pointed_black_star: |
 | ```:eight_spoked_asterisk:``` | :eight_spoked_asterisk: |
-| ```:eject_symbol:``` | :eject_symbol: |
+| ```:eject_symbol:``` | &#x23cf; |
 | ```:bulb:``` | :bulb: |
 | ```:electric_plug:``` | :electric_plug: |
 | ```:flashlight:``` | :flashlight: |
 | ```:elephant:``` | :elephant: |
-| ```:emoji_modifier_fitzpatrick_type__1__2:``` | :emoji_modifier_fitzpatrick_type__1__2: |
-| ```:emoji_modifier_fitzpatrick_type__3:``` | :emoji_modifier_fitzpatrick_type__3: |
-| ```:emoji_modifier_fitzpatrick_type__4:``` | :emoji_modifier_fitzpatrick_type__4: |
-| ```:emoji_modifier_fitzpatrick_type__5:``` | :emoji_modifier_fitzpatrick_type__5: |
-| ```:emoji_modifier_fitzpatrick_type__6:``` | :emoji_modifier_fitzpatrick_type__6: |
+| ```:emoji_modifier_fitzpatrick_type__1__2:``` | &#x1f3fb; |
+| ```:emoji_modifier_fitzpatrick_type__3:``` | &#x1f3fc; |
+| ```:emoji_modifier_fitzpatrick_type__4:``` | &#x1f3fd; |
+| ```:emoji_modifier_fitzpatrick_type__5:``` | &#x1f3fe; |
+| ```:emoji_modifier_fitzpatrick_type__6:``` | &#x1f3ff; |
 | ```:end:``` | :end: |
 | ```:email:``` | :email: |
 | ```:envelope:``` | :envelope: |
@@ -356,7 +356,7 @@ Supported Emojis
 | ```:scream:``` | :scream: |
 | ```:kissing_heart:``` | :kissing_heart: |
 | ```:sweat:``` | :sweat: |
-| ```:face_with_head__bandage:``` | :face_with_head__bandage: |
+| ```:face_with_head__bandage:``` | &#x1f915; |
 | ```:triumph:``` | :triumph: |
 | ```:mask:``` | :mask: |
 | ```:no_good:``` | :no_good: |

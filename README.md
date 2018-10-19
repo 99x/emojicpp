@@ -119,13 +119,13 @@ Supported Emojis
 | ```:fast_forward:``` | :fast_forward: |
 | ```:black_right__pointing_double_triangle_with_vertical_bar:``` | ⏭️ |
 | ```:arrow_forward:``` | :arrow_forward: |
-| ```:black_right__pointing_triangle_with_double_vertical_bar:``` | :black_right__pointing_triangle_with_double_vertical_bar: |
+| ```:black_right__pointing_triangle_with_double_vertical_bar:``` | ⏯️ |
 | ```:arrow_right:``` | :arrow_right: |
 | ```:scissors:``` | :scissors: |
 | ```:black_small_square:``` | :black_small_square: |
 | ```:spades:``` | :spades: |
 | ```:black_square_button:``` | :black_square_button: |
-| ```:black_square_for_stop:``` | :black_square_for_stop: |
+| ```:black_square_for_stop:``` | ⏹️ |
 | ```:sunny:``` | :sunny: |
 | ```:phone:``` | :phone: |
 | ```:telephone:``` | :telephone: |
@@ -140,7 +140,7 @@ Supported Emojis
 | ```:bookmark:``` | :bookmark: |
 | ```:bookmark_tabs:``` | :bookmark_tabs: |
 | ```:books:``` | :books: |
-| ```:bottle_with_popping_cork:``` | :bottle_with_popping_cork: |
+| ```:bottle_with_popping_cork:``` | 🍾 |
 | ```:bouquet:``` | :bouquet: |
 | ```:bow_and_arrow:``` | :bow_and_arrow: |
 | ```:bowling:``` | :bowling: |
@@ -160,7 +160,7 @@ Supported Emojis
 | ```:cactus:``` | :cactus: |
 | ```:date:``` | :date: |
 | ```:camera:``` | :camera: |
-| ```:camera_with_flash:``` | :camera_with_flash: |
+| ```:camera_with_flash:``` | 📸 |
 | ```:camping:``` | :camping: |
 | ```:cancer:``` | :cancer: |
 | ```:candle:``` | :candle: |
@@ -180,7 +180,7 @@ Supported Emojis
 | ```:chart_with_upwards_trend:``` | :chart_with_upwards_trend: |
 | ```:chart:``` | :chart: |
 | ```:mega:``` | :mega: |
-| ```:cheese_wedge:``` | :cheese_wedge: |
+| ```:cheese_wedge:``` | 🧀 |
 | ```:checkered_flag:``` | :checkered_flag: |
 | ```:cherries:``` | :cherries: |
 | ```:cherry_blossom:``` | :cherry_blossom: |
@@ -241,13 +241,13 @@ Supported Emojis
 | ```:cloud_with_lightning:``` | :cloud_with_lightning: |
 | ```:cloud_with_rain:``` | :cloud_with_rain: |
 | ```:cloud_with_snow:``` | :cloud_with_snow: |
-| ```:cloud_with_tornado:``` | :cloud_with_tornado: |
+| ```:cloud_with_tornado:``` | 🌪️ |
 | ```:cocktail:``` | :cocktail: |
 | ```:coffin:``` | :coffin: |
 | ```:boom:``` | :boom: |
 | ```:collision:``` | :collision: |
 | ```:comet:``` | :comet: |
-| ```:compression:``` | :compression: |
+| ```:compression:``` | 🗜️ |
 | ```:confetti_ball:``` | :confetti_ball: |
 | ```:confounded:``` | :confounded: |
 | ```:confused:``` | :confused: |
@@ -266,7 +266,7 @@ Supported Emojis
 | ```:crab:``` | :crab: |
 | ```:credit_card:``` | :credit_card: |
 | ```:crescent_moon:``` | :crescent_moon: |
-| ```:cricket_bat_and_ball:``` | :cricket_bat_and_ball: |
+| ```:cricket_bat_and_ball:``` | 🏏 |
 | ```:crocodile:``` | :crocodile: |
 | ```:x:``` | :x: |
 | ```:crossed_flags:``` | :crossed_flags: |
@@ -281,7 +281,7 @@ Supported Emojis
 | ```:custard:``` | :custard: |
 | ```:customs:``` | :customs: |
 | ```:cyclone:``` | :cyclone: |
-| ```:dagger_knife:``` | :dagger_knife: |
+| ```:dagger_knife:``` | 🗡️ |
 | ```:dancer:``` | :dancer: |
 | ```:dango:``` | :dango: |
 | ```:dark_sunglasses:``` | :dark_sunglasses: |
@@ -289,7 +289,7 @@ Supported Emojis
 | ```:deciduous_tree:``` | :deciduous_tree: |
 | ```:truck:``` | :truck: |
 | ```:department_store:``` | :department_store: |
-| ```:derelict_house_building:``` | :derelict_house_building: |
+| ```:derelict_house_building:``` | 🏚️ |
 | ```:desert:``` | :desert: |
 | ```:desert_island:``` | :desert_island: |
 | ```:desktop_computer:``` | :desktop_computer: |

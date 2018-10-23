@@ -1318,9 +1318,8 @@ namespace emojicpp {
                     index = i;
                 }
                 else {
-                    if (i-index==1) {
+                    if (i - index==1) {
                         index = i;
-                        
                         continue;
                     }
                     std::map<std::string, std::string>::iterator it;

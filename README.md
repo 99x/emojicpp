@@ -7,7 +7,11 @@ This will convert emoji codes in strings to unicode emojis.
 ```c++
 emojicpp::emojize("Emoji :smile: for c++ :+1:") 
 ```
-
+**How To Run?**
+```
+$ chmod +x run.sh
+$ ./run.sh
+```
 **Output**
 
 

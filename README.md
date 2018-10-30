@@ -26,6 +26,12 @@ int main() {
 }
 ```
 
+**How To Run Sample?**
+```
+$ chmod +x run.sh
+$ ./run.sh
+```
+
 Supported Emojis
 ------------------
 

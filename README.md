@@ -3,6 +3,8 @@ Emoji :smile: for c++ developers :+1:
 
 This will convert emoji codes in strings to unicode emojis. 
 
+[Buy me a coffee!](https://www.patreon.com/shalithasuranga)
+
 
 ```c++
 emojicpp::emojize("Emoji :smile: for c++ :+1:") 

@@ -1,8 +1,8 @@
-#include <map>
+#include <unordered_map>
 
 namespace emojicpp {
 
-    static std::map<std::string, std::string> EMOJIS = {
+    static std::unordered_map<std::string, std::string> EMOJIS = {
         {":admission_tickets:" , "\U0001F39F"},
         {":aerial_tramway:" , "\U0001F6A1"},
         {":airplane:" , "\U00002708"},
@@ -1313,26 +1313,27 @@ namespace emojicpp {
         int index = -1;
         int sLen = s.size();
         for (int i = 0; i < sLen; i++) {
-            if (s[i] == *L":") {
+            if (s[i] == ':') {
                 if (index == -1) {
                     index = i;
                 }
                 else {
-                    if (i - index==1) {
+                    int textEmojiLen = i - index + 1;
+                    if (textEmojiLen == 2) {
                         index = i;
                         continue;
                     }
-                    std::map<std::string, std::string>::iterator it;
-                    it = EMOJIS.find(s.substr(index, i - index + 1));
+                    std::unordered_map<std::string, std::string>::iterator it;
+                    it = EMOJIS.find(s.substr(index, textEmojiLen));
                     if (it == EMOJIS.end()) {
                         index = i;
                         continue;
                     }
                     std::string emo = it->second;
                     // replace from index to i
-                    //std::cout << s.substr(index, i - index + 1) << std::endl; // <---- uncomment to see what text is replaced, might be good for debugging
-                    s.replace(index, i - index + 1 , emo);
-                    int goBack = i - index + 1 - emo.size();
+                    //std::cout << s.substr(index, textEmojiLen) << std::endl; // <---- uncomment to see what text is replaced, might be good for debugging
+                    s.replace(index, textEmojiLen, emo);
+                    int goBack = textEmojiLen - emo.size();
                     sLen -= goBack;
                     i -= goBack;
                     index = -1;

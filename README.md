@@ -1,4 +1,11 @@
 # emojicpp
+
+[![GitHub license](https://img.shields.io/github/license/99xt/emojicpp)](https://github.com/99xt/emojicpp/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/99xt/emojicpp)](https://github.com/99xt/emojicpp/issues)
+[![GitHub stars](https://img.shields.io/github/stars/99xt/emojicpp)](https://github.com/99xt/emojicpp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/99xt/emojicpp)](https://github.com/99xt/emojicpp/network)
+[![GitHub last commit](https://img.shields.io/github/last-commit/99xt/emojicpp)](https://img.shields.io/github/last-commit/99xt/emojicpp)
+
 Emoji :smile: for c++ developers :+1:
 
 This will convert emoji codes in strings to unicode emojis. 
@@ -31,6 +38,21 @@ int main() {
 $ chmod +x run.sh
 $ ./run.sh
 ```
+
+## Roadmap
+
+See the [open issues](https://github.com/99xt/emojicpp/issues) for a list of proposed features (and known issues).
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 
 Supported Emojis
 ------------------
@@ -1342,3 +1364,13 @@ Supported Emojis
 | ```:yin_yang:``` | :yin_yang: |
 | ```:zipper__mouth_face:``` | 🤐 |
 
+### License
+
+Distributed under the MIT [License](https://github.com/99xt/emojicpp/blob/master/LICENSE). 
+
+### Contributors
+<a href="https://github.com/99xt/emojicpp/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=99xt/emojicpp" />
+</a>
+
+Made with [contributors-img](https://contributors-img.firebaseapp.com).

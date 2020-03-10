@@ -5,6 +5,7 @@ namespace emojicpp {
     static std::map<std::string, std::string> EMOJIS = {
         {":admission_tickets:" , "\U0001F39F"},
 	{":star_struck:", "\U0001F929"},
+	{":vomit:","\U0001F92E"},
         {":aerial_tramway:" , "\U0001F6A1"},
         {":airplane:" , "\U00002708"},
         {":airplane_arriving:" , "\U0001F6EC"},

@@ -60,8 +60,8 @@ Supported Emojis
 | Code          | Emoji     |
 | ------------- | --------- |
 | ```:admission_tickets:``` | 🎟️ |
-| ```star_struck:``` | :star_struck:  |
-| ```vomit:``` | :vomit:  |
+| ```:star_struck:``` | :star_struck:  |
+| ```:vomit:``` | :vomit:  |
 | ```:aerial_tramway:``` | :aerial_tramway: |
 | ```:airplane:``` | :airplane: |
 | ```:airplane_arriving:``` | 🛬 |

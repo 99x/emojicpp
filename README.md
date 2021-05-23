@@ -1,11 +1,5 @@
 # emojicpp
 
-[![GitHub license](https://img.shields.io/github/license/99xt/emojicpp)](https://github.com/99xt/emojicpp/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/99xt/emojicpp)](https://github.com/99xt/emojicpp/issues)
-[![GitHub stars](https://img.shields.io/github/stars/99xt/emojicpp)](https://github.com/99xt/emojicpp/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/99xt/emojicpp)](https://github.com/99xt/emojicpp/network)
-[![GitHub last commit](https://img.shields.io/github/last-commit/99xt/emojicpp)](https://img.shields.io/github/last-commit/99xt/emojicpp)
-
 Emoji :smile: for c++ developers :+1:
 
 This will convert emoji codes in strings to unicode emojis. 

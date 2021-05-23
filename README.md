@@ -728,7 +728,6 @@ Supported Emojis
 | ```:person_with_ball:``` | ⛹️ |
 | ```:person_with_blond_hair:``` | 👱 |
 | ```:pray:``` | :pray: |
-| ```:person_with_pouting_face:``` | :person_with_pouting_face: |
 | ```:computer:``` | :computer: |
 | ```:pick:``` | :pick: |
 | ```:pig2:``` | :pig2: |

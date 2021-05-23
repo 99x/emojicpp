@@ -726,7 +726,7 @@ Supported Emojis
 | ```:person_frowning:``` | 😦 |
 | ```:raised_hands:``` | :raised_hands: |
 | ```:person_with_ball:``` | ⛹️ |
-| ```:person_with_blond_hair:``` | :person_with_blond_hair: |
+| ```:person_with_blond_hair:``` | 👱 |
 | ```:pray:``` | :pray: |
 | ```:person_with_pouting_face:``` | :person_with_pouting_face: |
 | ```:computer:``` | :computer: |

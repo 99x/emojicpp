@@ -723,7 +723,7 @@ Supported Emojis
 | ```:performing_arts:``` | :performing_arts: |
 | ```:persevere:``` | :persevere: |
 | ```:bow:``` | :bow: |
-| ```:person_frowning:``` | :person_frowning: |
+| ```:person_frowning:``` | 😦 |
 | ```:raised_hands:``` | :raised_hands: |
 | ```:person_with_ball:``` | ⛹️ |
 | ```:person_with_blond_hair:``` | :person_with_blond_hair: |

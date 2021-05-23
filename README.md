@@ -1091,6 +1091,5 @@ Supported Emojis
 Distributed under the MIT [License](https://github.com/99xt/emojicpp/blob/master/LICENSE). 
 
 ### Contributors
-<a href="https://github.com/phoebe-leong/emojicpp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=phoebe-leong/emojicpp" />
-</a>
+
+![Repository Contributors](https://contrib.rocks/image?repo=phoebe-leong/emojicpp)

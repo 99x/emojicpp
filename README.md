@@ -6,13 +6,13 @@ This will convert emoji codes in strings to unicode emojis.
 
 
 ```c++
-emojicpp::emojize("Hello World :earth_africa") 
+emojicpp::emojize("Hello World! :earth_africa") 
 ```
 
 **Output**
 
 
-> Hello World 🌍
+> Hello World! 🌍
 
 
 **Sample program**

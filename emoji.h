@@ -694,7 +694,6 @@ namespace emojicpp {
         {":person_with_ball:" , u8"\U000026F9"},
         {":person_with_blond_hair:" , u8"\U0001F471"},
         {":pray:" , u8"\U0001F64F"},
-        {":person_with_pouting_face:" , u8"\U0001F64E"},
         {":computer:" , u8"\U0001F4BB"},
         {":pick:" , u8"\U000026CF"},
         {":pig2:" , u8"\U0001F416"},

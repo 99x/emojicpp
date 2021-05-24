@@ -1,8 +1,6 @@
 # emojicpp
 
-Emoji :smile: for c++ developers :+1:
-
-This will convert emoji codes in strings to unicode emojis. 
+This program will convert emoji codes in strings to unicode emojis. 
 
 
 ```c++

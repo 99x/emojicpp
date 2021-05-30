@@ -13,7 +13,7 @@ emojicpp::emojize("Hello World! :earth_africa")
 > Hello World! 🌍
 
 
-**Sample program**
+**Example program**
 
 ```c++
 #include <iostream>

@@ -25,7 +25,7 @@ int main() {
 }
 ```
 
-**How To Run Sample?**
+**How To Run Example**
 ```
 $ chmod +x run.sh
 $ ./run.sh

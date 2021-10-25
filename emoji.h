@@ -1057,6 +1057,9 @@ namespace emojicpp {
         int sLen = s.size();
         for (int i = 0; i < sLen; i++) {
             if (s[i] == *L":") {
+                // check if colon is escaped
+                if(i!=0 && s[i-1]=='\\')
+                    continue;
                 if (index == -1) {
                     index = i;
                 }

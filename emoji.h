@@ -144,6 +144,7 @@ namespace emojicpp {
         {":card_index_dividers:" , u8"\U0001F5C2"},
         {":carousel_horse:" , u8"\U0001F3A0"},
         {":flags:" , u8"\U0001F38F"},
+        {":flag_for_sri_lanka:" , "\U0001F1F1\U0001F1F0"},
         {":cat2:" , u8"\U0001F408"},
         {":cat:" , u8"\U0001F431"},
         {":joy_cat:" , u8"\U0001F639"},

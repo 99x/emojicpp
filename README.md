@@ -182,6 +182,7 @@ Supported Emojis
 | ```:card_index_dividers:``` | :card_index_dividers: |
 | ```:carousel_horse:``` | :carousel_horse: |
 | ```:flags:``` | :flags: |
+| ```:flag_for_sri_lanka:``` | :sri_lanka: |
 | ```:cat2:``` | :cat2: |
 | ```:cat:``` | :cat: |
 | ```:joy_cat:``` | :joy_cat: |

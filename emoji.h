@@ -145,6 +145,7 @@ namespace emojicpp {
         {":carousel_horse:" , u8"\U0001F3A0"},
         {":flags:" , u8"\U0001F38F"},
         {":flag_for_sri_lanka:" , "\U0001F1F1\U0001F1F0"},
+        {":flag_for_india:", u8"\U0001F1EE\U0001F1F3"},
         {":cat2:" , u8"\U0001F408"},
         {":cat:" , u8"\U0001F431"},
         {":joy_cat:" , u8"\U0001F639"},
@@ -1053,11 +1054,14 @@ namespace emojicpp {
         {":zipper__mouth_face:" , u8"\U0001F910"}
     };  
 
-    std::string emojize(std::string s) {
+    std::string emojize(std::string s, bool escape=true) {
         int index = -1;
         int sLen = s.size();
         for (int i = 0; i < sLen; i++) {
             if (s[i] == *L":") {
+                // check if colon is escaped
+                if(escape && i!=0 && s[i-1]=='\\')
+                    continue;
                 if (index == -1) {
                     index = i;
                 }

@@ -1053,11 +1053,14 @@ namespace emojicpp {
         {":zipper__mouth_face:" , u8"\U0001F910"}
     };  
 
-    std::string emojize(std::string s) {
+    std::string emojize(std::string s, bool escape=true) {
         int index = -1;
         int sLen = s.size();
         for (int i = 0; i < sLen; i++) {
             if (s[i] == *L":") {
+                // check if colon is escaped
+                if(escape && i!=0 && s[i-1]=='\\')
+                    continue;
                 if (index == -1) {
                     index = i;
                 }
